@@ -1,3 +1,8 @@
 *.png
 *.jpg
-.chromedriver-linux64
+./chromedriver-linux64
+TruFor/test_docker/output
+TruFor/test_docker/images
+*.png
+TruFor/test_docker/weights
+TruFor/test_docker/data_test/*
